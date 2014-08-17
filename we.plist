@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://192.168.1.10/Drive/we.ipa</string>
+					<string>http://111.160.244.35:8068/Drive/we.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
