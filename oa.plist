@@ -17,13 +17,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.esint.wpsoffice</string>
+				<string>com.esint.oa</string>
 				<key>bundle-version</key>
-				<string>4.0.0</string>
+				<string>1.0.0</string>
 				<key>kind</key>
-				<string>software</string>
+				<string>esint-ao</string>
 				<key>title</key>
-				<string>wps企业</string>
+				<string>oa</string>
 			</dict>
 		</dict>
 	</array>
