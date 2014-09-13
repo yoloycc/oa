@@ -17,11 +17,11 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.esint.oa</string>
+				<string>if_XianTeBanGong</string>
 				<key>bundle-version</key>
-				<string>1.0.0</string>
+				<string>1.0</string>
 				<key>kind</key>
-				<string>esint-ao</string>
+				<string>software</string>
 				<key>title</key>
 				<string>oa协同办公</string>
 			</dict>
